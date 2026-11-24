@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>สวัสดีครับ ผมชื่อ[นายสิรภัทร ชินนาผา/ไปร์ท] 👋</h1>
-  <p><b>[ตำแหน่งงาน เช่น Full-Stack Developer / Data Analyst / นักศึกษาวิทยาการคอมพิวเตอร์]</b></p>
+  <p><b>[ตำแหน่งงานที่สนใจ Full-Stack Developer / Data Analyst / นักศึกษาวิทยาการคอมพิวเตอร์]</b></p>
   
   <p>
     <a href="mailto:[siraphat.chi@ku.th]">
