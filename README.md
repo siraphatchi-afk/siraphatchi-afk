@@ -50,16 +50,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-### 🤝 ช่องทางการติดตามและติดต่อ (Connect with Me)
-
-<p align="left">
-  <a href="https://https://www.facebook.com/share/1J4d2tMDD8//[ชื่อ-Facebook-ของคุณ]" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/[ชื่อ-IG-ของคุณ]" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:[siraphat.chi@ku.th]">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
